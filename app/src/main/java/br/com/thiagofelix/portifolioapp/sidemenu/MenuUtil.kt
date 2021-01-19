@@ -4,6 +4,7 @@ import android.view.Menu
 import br.com.thiagofelix.portifolioapp.R
 
 class MenuUtil {
+    //
 
     companion object{
         val HOME_FRAGMENT_CODE = 0
