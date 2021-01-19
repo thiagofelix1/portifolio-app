@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portifolio App</string>
+    <string name="name">Thiago\nFelix</string>
+    <string name="description">Sou uma pessoa muito ativa e apaixonada por tecnologia, gosto de programar aplicativos como este que ajuda pessoas a mostrar um pouco do seu trabalho e suas competências, acredito fortemente que a tecnologia melhora a vida das pessoas</string>
+    <string name="current_job_post">Estagiário de engenharia mecânica na companhia de gás de amazonas, auxilio na operação e manutenção da rede de gás natural, também desenvolvo aplicativos internos para melhoria dos processos de manutenção em geral</string>
+    <string name="diploma">Cursando Engenharia Mecânica no Instituto Federal Do Amazonas(Ifam), Técnico em edificações pelo Instituto Federal Do Amazonas e desenvolvedor Android pela Udacity</string>
+    <string name="job_cigas">Estagiário de engenharia mecânica na companhia de gás de amazonas, auxilio na operação e manutenção da rede de gás natural, também desenvolvo aplicativos internos para melhoria dos processos de manutenção em geral</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
